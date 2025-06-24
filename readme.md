@@ -1,1 +1,1 @@
-Base Script pour automatisation
+Base Script pour automatisation, utilisation de pyautogui pour la reconnaissance d'images et keyboard pour les macros

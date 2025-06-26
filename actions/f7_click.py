@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 def handle_f7():
-    print("Action F7 : recherche 'autre_image.png'")
+    print("Action F7 : recherche 'test2.png'")
     time.sleep(1)
     try:
         location = pyautogui.locateOnScreen('test2.png', confidence=0.8)
